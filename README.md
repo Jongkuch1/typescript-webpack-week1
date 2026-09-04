@@ -2,6 +2,8 @@
 
 Small TypeScript project bundled with Webpack. The app renders a simple book list in the browser and includes a lightweight review model as part of the assignment work.
 
+It is ready to install, build, and open locally with a browser.
+
 ## What It Includes
 
 - TypeScript source in [src/main.ts](src/main.ts)
