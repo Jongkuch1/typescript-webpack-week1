@@ -25,6 +25,11 @@ npm run build
 
 This creates the browser bundle at `dist/bundle.js`.
 
+## Scripts
+
+- `npm install` installs the project dependencies.
+- `npm run build` bundles the TypeScript source with Webpack.
+
 ## Run
 
 Open [index.html](index.html) in a browser after building the project.
